@@ -1,0 +1,26 @@
+.user-list {
+    list-style-type: none;
+    display: table;
+    margin: 0 auto;
+    width: 30%;
+    padding: 0px;
+}
+.user-list li {
+    padding: 10px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+    vertical-align: sub;
+    min-height: 25px;
+}
+.user-list li label{
+    vertical-align: sub;
+}
+.user-list li button{
+    float:right;
+}
+.user-list li:nth-child(even) {
+    background-color: rgba(182, 123, 123, 0.5);
+}
+.user-list li:nth-child(odd) {
+    background-color: rgba(105, 169, 185, 0.5);
+}

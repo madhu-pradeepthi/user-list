@@ -1,0 +1,19 @@
+button{
+  padding: 5px;
+  background-color: rgb(128, 48, 48);
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.selected-user-name {
+  margin-top: 20px;
+}
+
+.info {
+  font-size: smaller;
+}
