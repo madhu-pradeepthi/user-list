@@ -1,4 +1,6 @@
 .userSelected {
-    outline: rgba(0, 0, 0) solid 2px;
+    outline-width: 4px;
+    outline-style: solid;
+    outline-color: black;
     font-weight: bold;
 }
