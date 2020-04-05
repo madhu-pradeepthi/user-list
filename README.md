@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+user-list is a React app which is developed using Typescript. This application allows the user to add and remove names to and from a list. Also has an option to pick an user name randomly from the list. The same name will not be picked twice in a row.
+For this test, we’d like you to develop a basic React app using TypeScript. The randomly picked user row in the list is highlighed.
+
+Uses {useState} React hook for state management.
+
+Note: This app also supports IE 11 browser
 
 ## Available Scripts
 
